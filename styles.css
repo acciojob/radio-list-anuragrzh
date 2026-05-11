@@ -1,4 +1,4 @@
 /*  your css code here. If applicable */
-input>.red{
-	color:red;
+.input-label {
+  color: red;
 }
