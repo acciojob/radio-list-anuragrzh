@@ -1,7 +1,4 @@
 /*  your css code here. If applicable */
-.input-label:nth-child(even){
-	color:red;
-}
-label{
-	display:block;
+.input:nth-child(even) {
+  color: red;
 }
